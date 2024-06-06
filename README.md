@@ -2,7 +2,7 @@
  Este é um aplicativo desenvolvido em Flutter que implementa o clássico jogo de pedra, papel e tesoura (JokenPo).
 
  ## Demonstração do Jogo JokenPo
-![Demonstração do Aplicativo](frases_do_dia/doc/showApp.gif)
+![Demonstração do Aplicativo](doc/showApp.gif)
 
 ## Regras do Jogo
 O JokenPo é um jogo simples e divertido que envolve duas pessoas. Cada jogador escolhe uma das três opções: pedra, papel ou tesoura. O vencedor é determinado com base nas seguintes regras:
